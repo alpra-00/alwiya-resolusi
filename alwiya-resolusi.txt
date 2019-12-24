@@ -1,0 +1,7 @@
+Alwiya_Resolusi
+- Memahami dasar-dasar web programming
+- Memahami dan Lebih Kenal dengan JavaScript
+  -JQuery
+  -Node JS
+  -React JS
+- Memahami dan Lebih Kenal dengan dengan PHP
