@@ -6,3 +6,7 @@ Rencana Mengajar Alwiya
 - JavaScript
   *Fundamental JavaScript
   *JavaScript Lanjutan
+  *Framework JavaScript
+   ^Angular
+   ^React
+-PHP
