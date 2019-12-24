@@ -7,3 +7,4 @@ Alwiya_Resolusi
 - Memahami dan Lebih Kenal dengan dengan PHP
 - Memperbanyak relasi dengan orang-orang yang paham atau ingin belajar tentang web programming
 - Belajar bahasa pemrograman lain selain JavaScript dan PHP
+- Belajar Ngajarin orang lain tentang koding
